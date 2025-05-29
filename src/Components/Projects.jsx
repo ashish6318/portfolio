@@ -3,9 +3,14 @@ import { motion,AnimatePresence } from 'framer-motion';
 import { Button1, Button2 } from './Buttons'; // Assuming these are your styled button components
 
 // NEW: Import your project images (replace with actual paths/names)
-// In C:/Users/rajpu/OneDrive/Desktop/portfolio/src/Components/Projects.jsx
+// C:\Users\rajpu\OneDrive\Desktop\portfolio\src\assets\Careercraft_ai.png
+// C:\Users\rajpu\OneDrive\Desktop\portfolio\src\assets\Devlinkup.png
+// C:\Users\rajpu\OneDrive\Desktop\portfolio\src\assets\face_mask_detection.png
+// C:\Users\rajpu\OneDrive\Desktop\portfolio\src\assets\Taggle_luggage.png
 
-import careerCraftAIImage from '../assets/careerCraft_ai.png';
+
+
+import careerCraftAIImage from '../assets/Careercraft_ai.png'; // Corrected Casing
 import devLinkupImage from '../assets/DevLinkup.png'; // Make sure 'Devlinkup.png' matches the actual filename case
 import taggleImage from '../assets/Taggle_luggage.png'; // Make sure 'taggle_luggage.png' matches
 import faceMaskImage from '../assets/face_mask_detection.png'; // Make sure 'facemask_placeholder.png' matches
