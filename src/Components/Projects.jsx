@@ -11,7 +11,7 @@ import { Button1, Button2 } from './Buttons'; // Assuming these are your styled 
 
 
 import careerCraftAIImage from '../assets/Careercraft_ai.png'; // Corrected Casing
-import devLinkupImage from '../assets/DevLinkup.png'; // Make sure 'Devlinkup.png' matches the actual filename case
+import devLinkupImage from '../assets/Devlinkup.png'; // Make sure 'Devlinkup.png' matches the actual filename case
 import taggleImage from '../assets/Taggle_luggage.png'; // Make sure 'taggle_luggage.png' matches
 import faceMaskImage from '../assets/face_mask_detection.png'; // Make sure 'facemask_placeholder.png' matches
 import { RiH1 } from 'react-icons/ri';
